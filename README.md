@@ -1,4 +1,4 @@
-# cnn_classification_pets
+# cnn_classification_pets by Lifu Zhang
 ### requirement tensorflow 2.0.0
 ### check this post on host to install
 https://stackoverflow.com/questions/55392100/install-tensorflow-2-0-in-conda-enviroment
